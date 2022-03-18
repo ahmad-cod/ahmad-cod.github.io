@@ -118,6 +118,10 @@ PAGE: ABOUT
     border-radius: 50%;
 }
 
+.paddingLeft {
+    padding-left: 20px;
+}
+
 
 /*****************************
 PAGE: CONTACT
